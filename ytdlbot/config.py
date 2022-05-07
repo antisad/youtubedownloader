@@ -14,7 +14,7 @@ WORKERS: "int" = int(os.getenv("WORKERS", 100))
 PYRO_WORKERS: "int" = int(os.getenv("PYRO_WORKERS", 100))
 APP_ID: "int" = int(os.getenv("APP_ID", 1374730))
 APP_HASH = os.getenv("APP_HASH", "74ba178e3fe050c1d70fc1893bde336a")
-TOKEN = os.getenv("TOKEN", "1158067060:AAHncmJPOGS6b8G7u0SFDg-53Eygw4r-f-A")
+TOKEN = os.getenv("TOKEN", "1439422952:AAEl_fIdMJY6WoO1rrjVs0RuWQnh_Y66JZQ")
 
 REDIS = os.getenv("REDIS")
 
